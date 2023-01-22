@@ -1,4 +1,4 @@
-from openet import __version__
+from python-openet import __version__
 
 
 def test_version():
