@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "openet"
+name = "python-openet"
 version = "0.1.0"
 description = ""
 authors = ["Denver Noell <dnoell@ppeng.com>"]
